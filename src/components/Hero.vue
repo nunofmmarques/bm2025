@@ -34,7 +34,6 @@
       </div>
     </div>
   </section>
-  <h1>123</h1>
 </template>
 
 <script>
