@@ -5,15 +5,15 @@ import Speakers from "./components/Speakers.vue";
 import Plant from "./components/Plant.vue";
 import MoreInfo from "./components/MoreInfo.vue";
 import Cta from "./components/Cta.vue";
-import Gallery from "./components/Gallery.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
   <Hero />
   <Intro />
   <Speakers />
+  <Cta />
   <Plant />
   <MoreInfo />
-  <Cta />
-  <Gallery />
+  <Footer />
 </template>

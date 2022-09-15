@@ -5,7 +5,17 @@ module.exports = {
     "./src/**/*.{js,vue}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'roboto': ['"Roboto"', 'sans-serif'],
+        'raleway': ['"Raleway"', 'sans-serif'],
+      },
+      colors: {
+        'primary': '#ffdc00',
+        'secondary': '#ebebeb',
+        'base': '#1f3038',
+      }
+    },
   },
   plugins: [],
 }

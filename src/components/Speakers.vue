@@ -1,80 +1,95 @@
 <template>
-  <div class="bg-white dark:bg-gray-800">
-    <div
-      class="lg:flex lg:items-center lg:justify-between w-full mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20"
-    >
-      <ol class="relative border-l border-gray-200 dark:border-gray-700">
-        <li class="mb-10 ml-4">
-          <div
-            class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"
-          ></div>
-          <time
-            class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >February 2022</time
-          >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Application UI code in Tailwind CSS
-          </h3>
-          <p
-            class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400"
-          >
-            Get access to over 20+ pages including a dashboard layout, charts,
-            kanban board, calendar, and pre-order E-commerce &amp; Marketing
-            pages.
-          </p>
+  <section class="bg-secondary">
+    <div class="max-w-7xl mx-auto px-8 py-12">
+      <div class="text-left">
+        <p class="text-lg font-medium leading-8 text-base/60">
+          Introducing Design Data Platform
+        </p>
+        <h1
+          class="mt-3 text-[3.5rem] w-min font-bold leading-[4rem] tracking-tight text-base border-b-2 border-spacing-2 border-b-primary"
+        >
+          BM2015
+        </h1>
+        <p class="mt-6 text-lg leading-relaxed max-w-lg text-base/80">
+          Specify helps you unify your brand identity by collecting, storing and
+          distributing design tokens and assets — automatically.
+        </p>
+
+        <div class="mt-6 flex items-start justify-start gap-4">
           <a
             href="#"
-            class="inline-flex items-center py-2 px-4 text-sm font-medium text-gray-900 bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700"
-            >Learn more
-            <svg
-              class="ml-2 w-3 h-3"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-              xmlns="http://www.w3.org/2000/svg"
+            class="transform rounded-md border-2 border-base/40 px-5 py-3 font-medium text-sm transition-colors hover:bg-base hover:text-white uppercase"
+            >Get started for free</a
+          >
+        </div>
+      </div>
+
+      <div class="grid gap-12 items-center grid-cols-2 md:grid-cols-4 mt-20">
+        <div class="space-y-4 text-center">
+          <img
+            class="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64 shadow-xl"
+            src="https://tailus.io/sources/blocks/classic/preview/images/woman1.jpg"
+            alt="woman"
+            loading="lazy"
+            width="640"
+            height="805"
+          />
+          <div>
+            <h4 class="text-2xl">Hentoni Doe</h4>
+            <span class="block text-sm text-gray-500">CEO-Founder</span>
+          </div>
+        </div>
+        <div class="space-y-4 text-center">
+          <img
+            class="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64 shadow-xl"
+            src="https://tailus.io/sources/blocks/classic/preview/images/man.jpg"
+            alt="man"
+            loading="lazy"
+            width="1000"
+            height="667"
+          />
+          <div>
+            <h4 class="text-2xl">Jonathan Doe</h4>
+            <span class="block text-sm text-gray-500"
+              >Chief Technical Officer</span
             >
-              <path
-                fill-rule="evenodd"
-                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
-                clip-rule="evenodd"
-              ></path></svg
-          ></a>
-        </li>
-        <li class="mb-10 ml-4">
-          <div
-            class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"
-          ></div>
-          <time
-            class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >March 2022</time
-          >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            Marketing UI design in Figma
-          </h3>
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            All of the pages and components are first designed in Figma and we
-            keep a parity between the two versions even as we update the
-            project.
-          </p>
-        </li>
-        <li class="ml-4">
-          <div
-            class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"
-          ></div>
-          <time
-            class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-            >April 2022</time
-          >
-          <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
-            E-Commerce UI code in Tailwind CSS
-          </h3>
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            Get started with dozens of web components and interactive elements
-            built on top of Tailwind CSS.
-          </p>
-        </li>
-      </ol>
+          </div>
+        </div>
+        <div class="space-y-4 text-center">
+          <img
+            class="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64 shadow-xl"
+            src="https://tailus.io/sources/blocks/classic/preview/images/woman.jpg"
+            alt="woman"
+            loading="lazy"
+            width="1000"
+            height="667"
+          />
+          <div>
+            <h4 class="text-2xl">Anabelle Doe</h4>
+            <span class="block text-sm text-gray-500"
+              >Chief Operations Officer</span
+            >
+          </div>
+        </div>
+        <div class="space-y-4 text-center">
+          <img
+            class="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64 shadow-xl"
+            src="https://tailus.io/sources/blocks/classic/preview/images/man.jpg"
+            alt="woman"
+            loading="lazy"
+            width="1000"
+            height="667"
+          />
+          <div>
+            <h4 class="text-2xl">Anabelle Doe</h4>
+            <span class="block text-sm text-gray-500"
+              >Chief Operations Officer</span
+            >
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
