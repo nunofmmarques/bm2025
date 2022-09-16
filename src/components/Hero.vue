@@ -15,7 +15,7 @@ import imagePath from "../assets/hero.png";
           </div>
 
           <div class="md:flex md:items-center md:gap-12">
-            <nav class="hidden md:block" aria-labelledby="header-navigation">
+            <!-- <nav class="hidden md:block" aria-labelledby="header-navigation">
               <h2 class="sr-only" id="header-navigation">Header navigation</h2>
 
               <ul class="flex items-center text-sm gap-6 font-raleway">
@@ -55,7 +55,7 @@ import imagePath from "../assets/hero.png";
                   </a>
                 </li>
               </ul>
-            </nav>
+            </nav> -->
 
             <div class="flex items-center gap-4">
               <div class="sm:gap-4 sm:flex">
@@ -63,11 +63,11 @@ import imagePath from "../assets/hero.png";
                   class="hidden sm:block transform rounded-md border-2 border-base/40 px-5 py-1.5 font-medium text-sm transition-colors hover:bg-base hover:text-white uppercase"
                   href="/"
                 >
-                  Login
+                  Inscrever
                 </a>
               </div>
 
-              <div class="block md:hidden">
+              <!-- <div class="block md:hidden">
                 <button
                   class="p-2 text-base rounded transition hover:text-base/50"
                 >
@@ -86,16 +86,30 @@ import imagePath from "../assets/hero.png";
                     />
                   </svg>
                 </button>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
       </div>
     </nav>
     <header
-      class="w-full bg-contain md:bg-cover bg-center h-[370px] md:h-[500px]"
-      :style="{ backgroundImage: `url(${imagePath})` }"
-    ></header>
+      class="w-full bg-contain relative md:bg-cover bg-center h-auto md:h-[400px] lg:h-[500px] overflow-hidden bg-[#A8A7A5]"
+    >
+      <img
+        class="w-full max-w-none max-h-max md:-mt-24 xl:-mt-60"
+        src="../assets/hero.png"
+        alt="montepio"
+      />
+      <div
+        class="bg-white/90 absolute bottom-5 left-1/2 transform -translate-x-1/2 px-6 py-3 rounded-md shadow-"
+      >
+        <img
+          class="h-[25px] md:h-[50px] max-w-none"
+          src="../assets/montepio.svg"
+          alt="montepio"
+        />
+      </div>
+    </header>
   </div>
 </template>
 

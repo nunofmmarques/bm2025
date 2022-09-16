@@ -13,7 +13,7 @@ import Footer from "./components/Footer.vue";
   <Intro />
   <Speakers />
   <Cta />
-  <Plant />
   <MoreInfo />
+  <Plant />
   <Footer />
 </template>

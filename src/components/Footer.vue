@@ -7,11 +7,7 @@
         </div>
 
         <p class="mt-4 text-sm text-center text-gray-500 lg:text-right lg:mt-0">
-          Copyright &copy; 2022. All rights reserved.
-        </p>
-
-        <p class="mt-4 text-sm text-center text-gray-500 lg:text-right lg:mt-0">
-          Copyright &copy; 2022. All rights reserved.
+          &copy; 2022 Montepio. Todos os direitos reservados.
         </p>
       </div>
     </div>

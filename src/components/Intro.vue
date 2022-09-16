@@ -5,7 +5,7 @@
         Introducing Design Data Platform
       </p>
       <h1
-        class="mt-3 text-[3.5rem] w-min font-bold leading-[4rem] tracking-tight text-secondary border-b-2 border-spacing-2 border-b-secondary"
+        class="md:mt-3 text-4xl md:text-[3.5rem] w-min font-bold leading-[4rem] tracking-tight text-secondary border-b-2 border-spacing-2 border-b-secondary"
       >
         BM2015
       </h1>
