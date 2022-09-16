@@ -98,7 +98,7 @@ import imagePath from "../assets/hero.png";
     >
       <img
         class="w-full max-w-none max-h-max md:-mt-24 xl:-mt-60"
-        src="https://nunofmmarques.github.io/bm2025/dist/assets/hero.png"
+        src="../assets/hero.png"
         alt="montepio"
       />
       <div
@@ -106,7 +106,7 @@ import imagePath from "../assets/hero.png";
       >
         <img
           class="h-[25px] md:h-[50px] max-w-none"
-          src="https://nunofmmarques.github.io/bm2025/dist/assets/montepio.svg"
+          src="../assets/montepio.svg"
           alt="montepio"
         />
       </div>
