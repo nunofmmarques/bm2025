@@ -15,9 +15,10 @@
         </p>
 
         <a
-          href="#"
+          href="https://invtdu.to/_0pm71"
+          target="_blank"
           class="transform mt-6 inline-block rounded-md bg-base text-secondary border-2 border-base/40 px-5 py-3 font-medium text-sm transition-colors hover:bg-secondary hover:text-base/100 uppercase"
-          >Get started for free</a
+          >Inscrever</a
         >
       </div>
     </div>

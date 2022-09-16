@@ -61,7 +61,8 @@ import imagePath from "../assets/hero.png";
               <div class="sm:gap-4 sm:flex">
                 <a
                   class="hidden sm:block transform rounded-md border-2 border-base/40 px-5 py-1.5 font-medium text-sm transition-colors hover:bg-base hover:text-white uppercase"
-                  href="/"
+                  href="https://invtdu.to/_0pm71"
+                  target="_blank"
                 >
                   Inscrever
                 </a>
@@ -97,7 +98,7 @@ import imagePath from "../assets/hero.png";
     >
       <img
         class="w-full max-w-none max-h-max md:-mt-24 xl:-mt-60"
-        src="../assets/hero.png"
+        src="https://nunofmmarques.github.io/bm2025/dist/assets/hero.png"
         alt="montepio"
       />
       <div
@@ -105,7 +106,7 @@ import imagePath from "../assets/hero.png";
       >
         <img
           class="h-[25px] md:h-[50px] max-w-none"
-          src="../assets/montepio.svg"
+          src="https://nunofmmarques.github.io/bm2025/dist/assets/montepio.svg"
           alt="montepio"
         />
       </div>
