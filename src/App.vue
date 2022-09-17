@@ -6,6 +6,7 @@ import Plant from "./components/Plant.vue";
 import MoreInfo from "./components/MoreInfo.vue";
 import Cta from "./components/Cta.vue";
 import Footer from "./components/Footer.vue";
+import Gallery from "./components/Gallery.vue";
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import Footer from "./components/Footer.vue";
   <Cta />
   <MoreInfo />
   <Plant />
+  <!-- <Gallery /> -->
   <Footer />
 </template>
