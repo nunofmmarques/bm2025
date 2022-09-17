@@ -18,7 +18,7 @@
 
       <!-- timeline -->
       <div class="max-w-2xl mx-auto mt-12">
-        <div class="grid gap-32 sm:grid-cols-2">
+        <div class="grid gap-x-32 sm:grid-cols-2">
           <ol class="relative border-l border-gray-700">
             <Event timeEvent="9h" name="Welcome coffee | Chegar" />
             <Event timeEvent="10h" name="Boas-vindas | Começar" />
