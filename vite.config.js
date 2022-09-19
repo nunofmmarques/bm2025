@@ -8,6 +8,5 @@ export default defineConfig({
   build: {
     emptyOutDir: false,
   },
-  //base: '/bm2025/dist/',
-  base: '/',
+  base: '/bm2025/dist/',
 })
