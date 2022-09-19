@@ -5,5 +5,9 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/bm2025/dist/',
+  build: {
+    emptyOutDir: false,
+  },
+  //base: '/bm2025/dist/',
+  base: '/',
 })
