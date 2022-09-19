@@ -32,8 +32,16 @@ export default {
 </script>
 
 <style lang="css" scoped>
-.splide__slide img {
-  width: 100%;
-  height: 500px;
+@media only screen and (max-width: 768px) {
+  .splide__slide img {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 769px) {
+  .splide__slide img {
+    margin: 0 auto;
+    height: 500px;
+  }
 }
 </style>

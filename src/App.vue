@@ -16,6 +16,6 @@ import Gallery from "./components/Gallery.vue";
   <Cta />
   <MoreInfo />
   <Plant />
-  <!-- <Gallery /> -->
+  <Gallery />
   <Footer />
 </template>

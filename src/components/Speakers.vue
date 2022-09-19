@@ -2,41 +2,41 @@
   <section class="bg-white">
     <div class="max-w-7xl mx-auto px-8 py-12">
       <div class="text-left">
-        <p class="text-lg font-medium leading-8 text-base/60">
+        <!--  <p class="text-lg font-medium leading-8 text-base/60">
           Introducing Design Data Platform
-        </p>
+        </p> -->
         <h1
           class="md:mt-3 text-4xl md:text-[3.5rem] w-min font-bold leading-[4rem] tracking-tight text-base border-b-2 border-spacing-2 border-b-primary"
         >
-          BM2015
+          Agenda
         </h1>
-        <p class="mt-6 text-lg leading-relaxed max-w-lg text-base/80">
+        <!--  <p class="mt-6 text-lg leading-relaxed max-w-lg text-base/80">
           Specify helps you unify your brand identity by collecting, storing and
           distributing design tokens and assets — automatically.
-        </p>
+        </p> -->
       </div>
 
       <!-- timeline -->
       <div class="max-w-2xl mx-auto mt-12">
         <div class="grid gap-x-32 sm:grid-cols-2">
           <ol class="relative border-l border-gray-700">
-            <Event timeEvent="9h" name="Welcome coffee | Chegar" />
-            <Event timeEvent="10h" name="Boas-vindas | Começar" />
-            <Event timeEvent="10h05" name="Entrevista CA | Novo ciclo" />
-            <Event timeEvent="10h50" name="Painel Erasmus | Aproximar" />
-            <Event timeEvent="11h20H" name="Coffee Break" />
-            <Event timeEvent="11h35" name="Painel Trainees | Renovar" />
-            <Event timeEvent="12h05" name="Intervenção FAP – Base | Inovar" />
-            <Event timeEvent="12h30" name="Almoçar" />
+            <Event timeEvent="9h" name="Chegar" />
+            <Event timeEvent="10h" name="Começar" />
+            <Event timeEvent="10h05" name="Novo ciclo" />
+            <Event timeEvent="10h50" name="Aproximar" />
+            <Event timeEvent="11h20H" name="Pausar" />
+            <Event timeEvent="11h50" name="Renovar" />
+            <Event timeEvent="12h20" name="Inovar" />
+            <Event timeEvent="12h45" name="Almoçar" />
           </ol>
           <ol class="relative border-l border-gray-700">
-            <Event timeEvent="14h30" name="Recomeçar" />
-            <Event timeEvent="14h35" name="Clientes | Escutar" />
-            <Event timeEvent="14h40" name="C-LAB | Conhecer" />
-            <Event timeEvent="15h30" name="Coffe Break" />
-            <Event timeEvent="15h45" name="Talk Inspiração | Comunicar" />
-            <Event timeEvent="16h45" name="CEO Pedro Leitão | Entregar" />
-            <Event timeEvent="17h" name="Regressar" />
+            <Event timeEvent="14h15" name="Recomeçar" />
+            <Event timeEvent="14h20" name="Escutar" />
+            <Event timeEvent="14h25" name="Questionar" />
+            <Event timeEvent="15h05" name="Pausar" />
+            <Event timeEvent="15h35" name="Comunicar" />
+            <Event timeEvent="16h35" name="Entregar" />
+            <Event timeEvent="17h05" name="Regressar" />
           </ol>
         </div>
       </div>

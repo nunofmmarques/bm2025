@@ -11,7 +11,7 @@ module.exports = {
         'raleway': ['"Raleway"', 'sans-serif'],
       },
       colors: {
-        'primary': '#ffdc00',
+        'primary': '#ffd100',
         'secondary': '#ebebeb',
         'base': '#1f3038',
       }

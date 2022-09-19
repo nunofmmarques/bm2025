@@ -7,7 +7,7 @@
         </div>
 
         <p class="mt-4 text-sm text-center text-gray-500 lg:text-right lg:mt-0">
-          &copy; 2022 Montepio. Todos os direitos reservados.
+          &copy; 2022 Banco Montepio. Todos os direitos reservados.
         </p>
       </div>
     </div>

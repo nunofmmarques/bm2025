@@ -4,13 +4,13 @@ import imagePath from "../assets/hero.png";
 
 <template>
   <div>
-    <nav class="bg-secondary border-b-4 border-b-primary py-4">
+    <nav class="bg-white border-b-4 border-b-primary py-4">
       <div class="px-4 mx-auto max-w-screen-xl sm:px-6 lg:px-8">
         <div class="flex items-center justify-between gap-x-8">
           <div class="flex-1 md:flex md:items-center md:gap-12">
             <a class="block text-teal-600" href="/">
               <span class="sr-only">Home</span>
-              <img class="h-12" src="../assets/bm2025-logo.svg" alt="mb2025" />
+              <img class="h-12" src="../assets/montepio.svg" alt="mb-2025" />
             </a>
           </div>
 
@@ -58,7 +58,7 @@ import imagePath from "../assets/hero.png";
             </nav> -->
 
             <div class="flex items-center gap-4">
-              <div class="sm:gap-4 sm:flex">
+              <!-- <div class="sm:gap-4 sm:flex">
                 <a
                   class="hidden sm:block transform rounded-md border-2 border-base/40 px-5 py-1.5 font-medium text-sm transition-colors hover:bg-base hover:text-white uppercase"
                   href="https://invtdu.to/_0pm71"
@@ -66,7 +66,7 @@ import imagePath from "../assets/hero.png";
                 >
                   Inscrever
                 </a>
-              </div>
+              </div> -->
 
               <!-- <div class="block md:hidden">
                 <button
@@ -101,7 +101,7 @@ import imagePath from "../assets/hero.png";
         src="../assets/hero.png"
         alt="montepio"
       />
-      <div
+      <!-- <div
         class="bg-white/90 absolute bottom-5 left-1/2 transform -translate-x-1/2 px-6 py-3 rounded-md shadow-"
       >
         <img
@@ -109,7 +109,7 @@ import imagePath from "../assets/hero.png";
           src="../assets/montepio.svg"
           alt="montepio"
         />
-      </div>
+      </div> -->
     </header>
   </div>
 </template>
