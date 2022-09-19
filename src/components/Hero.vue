@@ -58,15 +58,14 @@ import imagePath from "../assets/hero.png";
             </nav> -->
 
             <div class="flex items-center gap-4">
-              <!-- <div class="sm:gap-4 sm:flex">
+              <div class="sm:gap-4 sm:flex">
                 <a
-                  class="hidden sm:block transform rounded-md border-2 border-base/40 px-5 py-1.5 font-medium text-sm transition-colors hover:bg-base hover:text-white uppercase"
                   href="https://invtdu.to/_0pm71"
                   target="_blank"
+                  class="transform inline-block rounded-md bg-base text-secondary border-2 border-base/40 px-5 py-3 font-medium text-sm transition-colors hover:bg-secondary hover:text-base/100 uppercase"
+                  >Inscreva-se</a
                 >
-                  Inscrever
-                </a>
-              </div> -->
+              </div>
 
               <!-- <div class="block md:hidden">
                 <button

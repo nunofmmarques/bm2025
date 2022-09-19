@@ -7,7 +7,7 @@
       <h1
         class="md:mt-3 text-4xl md:text-[3.5rem] w-fit font-bold leading-[4rem] tracking-tight text-secondary border-b-2 border-spacing-2 border-b-secondary"
       >
-        BM-2015
+        BM-2025
       </h1>
       <p class="mt-6 text-lg leading-relaxed text-secondary/80">
         Contamos com a sua presença para assinalar o novo ciclo e inspirar novos
