@@ -9,7 +9,7 @@
         </h2>
 
         <p class="text-base/80 mt-6 text-lg leading-relaxed max-w-lg">
-          Business Casual
+          Casual Chic
         </p>
       </div>
     </div>
