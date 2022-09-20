@@ -20,23 +20,23 @@
       <div class="max-w-2xl mx-auto mt-12">
         <div class="grid gap-x-32 sm:grid-cols-2">
           <ol class="relative border-l border-gray-700">
-            <Event timeEvent="9h" name="Chegar" />
-            <Event timeEvent="10h" name="Começar" />
-            <Event timeEvent="10h05" name="Novo ciclo" />
-            <Event timeEvent="10h50" name="Aproximar" />
-            <Event timeEvent="11h20H" name="Pausar" />
-            <Event timeEvent="11h50" name="Renovar" />
-            <Event timeEvent="12h20" name="Inovar" />
-            <Event timeEvent="12h45" name="Almoçar" />
+            <Event timeEvent="9h" name="Chegar" color="text-base-900" />
+            <Event timeEvent="10h" name="Começar" color="text-base-900" />
+            <Event timeEvent="10h05" name="Novo ciclo" color="text-base-900" />
+            <Event timeEvent="10h50" name="Aproximar" color="text-base-900" />
+            <Event timeEvent="11h20" name="Pausa" color="text-primary" />
+            <Event timeEvent="11h50" name="Renovar" color="text-base-900" />
+            <Event timeEvent="12h20" name="Inovar" color="text-base-900" />
+            <Event timeEvent="12h45" name="Almoço" color="text-primary" />
           </ol>
           <ol class="relative border-l border-gray-700">
-            <Event timeEvent="14h15" name="Recomeçar" />
-            <Event timeEvent="14h20" name="Escutar" />
-            <Event timeEvent="14h25" name="Questionar" />
-            <Event timeEvent="15h05" name="Pausar" />
-            <Event timeEvent="15h35" name="Comunicar" />
-            <Event timeEvent="16h35" name="Entregar" />
-            <Event timeEvent="17h05" name="Regressar" />
+            <Event timeEvent="14h15" name="Recomeçar" color="text-base-900" />
+            <Event timeEvent="14h20" name="Escutar" color="text-base-900" />
+            <Event timeEvent="14h25" name="Questionar" color="text-base-900" />
+            <Event timeEvent="15h05" name="Pausa" color="text-primary" />
+            <Event timeEvent="15h35" name="Comunicar" color="text-base-900" />
+            <Event timeEvent="16h35" name="Entregar" color="text-base-900" />
+            <Event timeEvent="17h05" name="Regressar" color="text-base-900" />
           </ol>
         </div>
       </div>

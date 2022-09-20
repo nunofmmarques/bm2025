@@ -16,7 +16,7 @@ import imagePath from "../assets/map.png";
         </h1>
         <p class="mt-6 text-lg leading-relaxed max-w-xl text-base/80">
           O acesso ao evento é feito através do Portão Oeste da Base Aérea.<br />
-          Dirija-se ao local, seguindo estas coordenadas.
+          Dirija-se ao local, seguindo estas coordenadas: 39.81737, -8.89581
         </p>
       </div>
     </div>
@@ -40,7 +40,9 @@ import imagePath from "../assets/map.png";
         <h1
           class="mt-0 text-3xl font-bold leading-relaxed tracking-tight text-white border-b-2 pb-4 border-b-primary"
         >
-          Base Aérea Nª5
+          Portão Oeste
+          <br />
+          Base Aérea Nº5
           <br />
           Monte Real, Leiria
         </h1>

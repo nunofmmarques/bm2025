@@ -4,7 +4,7 @@
     <p class="mb-1 text-base font-normal leading-none text-base/50">
       {{ timeEvent }}
     </p>
-    <h3 class="text-lg font-semibold text-base-900">
+    <h3 class="text-lg font-semibold" :class="color">
       {{ name }}
     </h3>
     <!-- <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
@@ -17,7 +17,7 @@
 <script>
 export default {
   name: "Event",
-  props: ["timeEvent", "name"],
+  props: ["timeEvent", "name", "color"],
 };
 </script>
 
